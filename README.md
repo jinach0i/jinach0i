@@ -1,5 +1,28 @@
-### Hi there 👋
-
+<div>
+      <h1>안녕하세요! 최혜진의 깃헙입니다.</h1>
+      <ul>
+        <li>
+          <p>스킬</p>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JS</li>
+            <li>React</li>
+            <li>Vue</li>
+            <li>SQL</li>
+          </ul>
+        </li>
+        <li>
+          <p>자격증</p>
+          <ul>
+            <li>웹 디자인 기능사</li>
+            <li></li>
+          </ul>
+        </li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
 <!--
 **jinach0i/jinach0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
