@@ -13,14 +13,26 @@
           </ul>
         </li>
         <li>
-          <p>자격증</p>
+          <p>보유하고 있는 자격증!</p>
           <ul>
             <li>웹 디자인 기능사</li>
             <li></li>
           </ul>
         </li>
-        <li></li>
-        <li></li>
+        <li>
+        <li>
+         <p>작업물 Index</p>
+          <ul>
+            <li>  
+                <p>Instagram</p>
+          <ul>
+                <li><a href="https://github.com/jinach0i/Vuestagram.git">Vue ver.</a></li>
+            <li>React ver.</li>
+          </ul>   
+                </li>
+            <li>Blog</li>
+          </ul>     
+         </li>
       </ul>
     </div>
 <!--
