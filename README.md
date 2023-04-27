@@ -21,7 +21,7 @@
         </li>
         <li>
         <li>
-         <p>작업물 Index</p>
+         <p>작업물 한눈에 보기(목록)</p>
           <ul>
             <li>  
                 <p>Instagram</p>
@@ -30,7 +30,13 @@
             <li>React ver.</li>
           </ul>   
                 </li>
-            <li>Blog</li>
+            <li>
+<p>Blog</p>
+<ul>
+                <li><a href="#">Vue ver.</a></li>
+            <li>React ver.</li>
+          </ul>
+</li>
           </ul>     
          </li>
       </ul>
