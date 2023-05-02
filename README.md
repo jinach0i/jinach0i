@@ -34,7 +34,7 @@
 <p>Blog</p>
 <ul>
                 <li><a href="#">Vue ver.</a></li>
-            <li>React ver.</li>
+            <li><a href="https://github.com/jinach0i/ReactBlog.git">React ver.</a></li>
           </ul>
 </li>
           </ul>     
