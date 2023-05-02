@@ -7,9 +7,9 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>JS</li>
+            <li>jQuery</li>
             <li>React</li>
             <li>Vue</li>
-            <li>SQL</li>
           </ul>
         </li>
         <li>
@@ -18,8 +18,8 @@
             <li>웹 디자인 기능사</li>
           </ul>
         </li>
-      </ul>
-         <p>작업물 한눈에 보기(목록)</p>
+      <li>
+            <p>작업물 한눈에 보기(목록)</p>
           <ul>
             <li>  
                 <p>Instagram</p>
@@ -38,6 +38,7 @@
           </ul>     
          </li>
       </ul>
+      </li>
     </div>
 <!--
 **jinach0i/jinach0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
