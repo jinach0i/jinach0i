@@ -18,23 +18,25 @@
             <li>웹 디자인 기능사</li>
           </ul>
         </li>
-      <li>
-            <p>작업물 한눈에 보기(목록)</p>
-          <ul>
-            <li>  
-                <p>Instagram</p>
-          <ul>
-                <li><a href="https://github.com/jinach0i/Vuestagram.git">Vue ver.</a></li>
-            <li>React ver.</li>
-          </ul>   
-                </li>
-            <li>
-<p>Blog</p>
-<ul>
-                <li><a href="#">Vue ver.</a></li>
-            <li><a href="https://github.com/jinach0i/ReactBlog.git">React ver.</a></li>
+        <li>
+           <p>작업물 한눈에 보기(목록)</p>
+            <ul>
+               <li>  
+                  <p>Instagram</p>
+                  <ul>
+                        <li><a href="https://github.com/jinach0i/Vuestagram.git">Vue ver.</a></li>
+                        <li><a href="https://github.com/jinach0i/Reactagram.git">React ver.</a></li>
+                  </ul>   
+               </li>
+              </ul>
+         </li>
+         <li>
+            <p>Blog</p>
+            <ul>
+                <li><a href="https://github.com/jinach0i/Vuelog.git">Vue ver.</a></li>
+                  <li><a href="https://github.com/jinach0i/ReactBlog.git">React ver.</a></li>
           </ul>
-</li>
+         </li>
           </ul>     
          </li>
       </ul>
