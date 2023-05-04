@@ -28,15 +28,16 @@
                         <li><a href="https://github.com/jinach0i/Reactagram.git">React ver.</a></li>
                   </ul>   
                </li>
+                <li>
+                  <p>Blog</p>
+                  <ul>
+                   <li><a href="https://github.com/jinach0i/Vuelog.git">Vue ver.</a></li>
+                  <li><a href="https://github.com/jinach0i/ReactBlog.git">React ver.</a></li>
+                  </ul>
+                  </li>
               </ul>
          </li>
-         <li>
-            <p>Blog</p>
-            <ul>
-                <li><a href="https://github.com/jinach0i/Vuelog.git">Vue ver.</a></li>
-                  <li><a href="https://github.com/jinach0i/ReactBlog.git">React ver.</a></li>
-          </ul>
-         </li>
+        
           </ul>     
          </li>
       </ul>
