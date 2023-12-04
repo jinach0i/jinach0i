@@ -1,11 +1,18 @@
 <div>
-      <h1>안녕하세요! 최혜진의 깃헙입니다.</h1>
+      <h1>안녕하세요😀 최혜진의 깃허브에 오신 것을 환영합니다.</h1>
       <ul>
+<li>
+<p>요새 근황: 🌱개발 공부중 I’m currently learning web programming</p>
+</li>
 	<li>
-		근황 : 현재 9 to 6로 db 기초를 학습 중..by 프론트엔드 개발자 취업캠프(Python)  
+	  <p>이수한 교육 목록🎓</p>
+          <ul>
+            <li>프론트엔드 개발자 취업캠프(Python) by 멀티잇캠퍼스</li>
+            <li>반응형 웹퍼블리셔 프론트엔드 웹디자인기능사 과정평가형 608시간 by 더휴먼컴퓨터아트아카데미</li>
+          </ul>
 	</li>
         <li>
-          <p>스킬</p>
+          <p>스킬셋</p>
           <ul>
             <li>HTML</li>
             <li>CSS</li>
@@ -16,13 +23,13 @@
           </ul>
         </li>
         <li>
-          <p>보유하고 있는 자격증!</p>
+          <p>보유하고 있는 자격증✔️</p>
           <ul>
             <li>웹 디자인 기능사</li>
           </ul>
         </li>
         <li>
-           <p>작업물 한눈에 보기(목록)(추가중)</p>
+           <p>프로젝트🛠️(추가중)</p>
             <ul>
                <li>  
                   <p>Instagram</p>
@@ -47,7 +54,16 @@
                  </li>
               </ul>
          </li>
-	</ul>
+
+
+      </ul>
+
+<hr />
+
+![✨jinach0i's Github Stats Card](https://github-readme-stats.vercel.app/api?username=jinach0i&show_icons=true)
+
+<hr />
+
     </div>
 <!--
 **jinach0i/jinach0i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
